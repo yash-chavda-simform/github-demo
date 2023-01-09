@@ -1,0 +1,23 @@
+#initiliza the folder
+git init
+
+
+# First commit
+git add sort.c
+
+# adds file to the staging area
+git commit –m “Added sort operation”
+
+# Second commit
+git add search.c
+
+# adds file to the staging area
+git commit –m “Added search operation”
+
+
+#cheat sheet
+https://training.github.com/downloads/github-git-cheat-sheet/
+https://ndpsoftware.com/git-cheatsheet.html#loc=remote_repo;
+
+list of commands
+https://git-scm.com/docs/git#_git_commands/
